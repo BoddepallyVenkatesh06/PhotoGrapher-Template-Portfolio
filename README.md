@@ -12,8 +12,7 @@ This project is a photographer portfolio template built using HTML, CSS, and Jav
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
-
+  
 ## Introduction
 
 The Photographer Portfolio Template is designed for photographers to showcase their work in a professional and visually appealing manner. It provides a sleek and modern layout with features such as image galleries, contact forms, and interactive elements to engage visitors.
